@@ -9,7 +9,7 @@ TBD
 ## Index
 > [Home](https://github.com/JadedChara/De-bunker)<sup>You Are Here</sup>
 
-> [Religion In The US (And By Extension, The UK)](https://github.com/JadedChara/De-bunker/RELIGION.md)  
+> [Religion In The US (And By Extension, The UK)](https://github.com/JadedChara/De-bunker/blob/main/RELIGION.md)  
 >> [Protestantism](https://github.com/JadedChara/De-bunker/)  
 >> [Avoidance of Organized Religion](https://github.com/JadedChara/De-bunker/)  
 >> [Biblical References](https://github.com/JadedChara/De-bunker)

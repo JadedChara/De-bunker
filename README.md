@@ -7,7 +7,7 @@ An easily accessible archive of resources for deconstructing recycled alt-right 
 ## About
 TBD
 ## Index
->[] [Home](https://github.com/JadedChara/De-bunker)<sup>You Are Here</sup>
+> [Home](https://github.com/JadedChara/De-bunker)<sup>You Are Here</sup>
 
 > [Religion In The US (And By Extension, The UK)](https://github.com/JadedChara/De-bunker/RELIGION.md)  
 >> [Protestantism](https://github.com/JadedChara/De-bunker/)  
